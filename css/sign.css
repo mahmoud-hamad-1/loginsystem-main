@@ -1,0 +1,51 @@
+body{
+    background-color: #24353F;
+}
+
+.login{
+    background-color: #24353F;
+}
+
+
+input {
+    background-color:#24353F;
+    color: white;
+}
+
+h1 {
+    color: #1E6A7A;
+}
+
+span {
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+
+/* input{
+    background-color:#24353F;
+    color: white ;
+    width: 100%;
+    border: 2px solid white;
+    border-radius: 5px;
+    padding: 5px;
+} */
+
+button {
+    background-color:#1E6A7A;
+    color: black;
+    transition: all 1s;
+    border: 1px solid #1E6A7A;
+}
+
+
+button:hover {
+ color: white;
+}
+
+
+
+
